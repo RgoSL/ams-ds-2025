@@ -1,0 +1,7 @@
+USE Empresa
+
+CREATE TABLE Departamentos (
+CodigoDep INT NOT NULL PRIMARY KEY,
+NomeDep NVARCHAR (60) NOT NULL
+);
+GO
