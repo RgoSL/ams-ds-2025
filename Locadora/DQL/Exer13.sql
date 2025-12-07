@@ -1,0 +1,3 @@
+SELECT * FROM CDs 
+WHERE Album = 1
+GO

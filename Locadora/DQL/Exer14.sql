@@ -1,0 +1,2 @@
+SELECT AVG(ValorPago) FROM CDs
+GO
