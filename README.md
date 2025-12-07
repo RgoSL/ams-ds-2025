@@ -1,48 +1,38 @@
-# 📱 Programação de Aplicativos Mobile II
+# 🗄️ Banco de Dados II
+- ❤️ A melhor matéria do Terceiro Ano
 
 <br>
 
 ## 🤓 Descrição
 
-> Essa matéria tem o foco na integração de aplicativos móveis em Kotlin com Bancos de Dados Não Relacionais, como Firebase.
+> A segunda parte dessa matéria abordou mais exercícios práticos, mais projetos e o conceito de SubQuerys.
 
 <br>
 
 ## 📇 Atividades da Branch :
 
-### 👤 Aplicativo Tela de Perfil
-O primeiro aplicativo foi sobre a criação de um card de perfil.
-- 👤 [Primeiro Aplicativo](https://github.com/RgoSL/ams-ds-2025/tree/MAP-II/TelaPerfil) <!-- ⬅️ LINK PARA A RESPECTIVA BRANCH -->
+### 📫 Database Distribuidora
+A problemática dessa atividade se baseava em dados de uma rede de entregas.
+- 📫 [Primeira Atividade](https://github.com/RgoSL/ams-ds-2025/tree/DB-II/Distribuidora) <!-- ⬅️ LINK PARA A RESPECTIVA BRANCH -->
 <br>
 
-### 💅🏻 Aprimorando a Tela de Perfil
-O segundo aplicativo continha alguns componentes a mais para a criação desse tipo de Front-end.
-- 💅🏻 [Segundo Aplicativo](https://github.com/RgoSL/ams-ds-2025/tree/MAP-II/AppPerfil) <!-- ⬅️ LINK PARA A RESPECTIVA BRANCH -->
+ ### 💽 Database Locadora
+A problemática dessa atividade se baseava em uma locadora de discos de música.
+- 💽 [Segunda Atividade](https://github.com/RgoSL/ams-ds-2025/tree/DB-II/Locadora) <!-- ⬅️ LINK PARA A RESPECTIVA BRANCH -->
 <br>
 
-### 🛥️ Aplicativo com Navegação
-O terceiro aplicativo foi um treino de passagem de parâmetros.
-- 🛥️ [Terceiro Aplicativo](https://github.com/RgoSL/ams-ds-2025/tree/MAP-II/AppNavigate) <!-- ⬅️ LINK PARA A RESPECTIVA BRANCH -->
+  ### 🏦 Database Empresa
+A problemática elaborada nessa atividade foi sobre funcionários em uma empresa.
+- 🏦 [Terceira Atividade](https://github.com/RgoSL/ams-ds-2025/tree/DB-II/Empresa) <!-- ⬅️ LINK PARA A RESPECTIVA BRANCH -->
 <br>
 
-### <img src="https://skillicons.dev/icons?i=firebase" width = 30px height = 30px /> Aplicativo com Firebase
-O quarto aplicativo foi sobre a criação de um App de SignIn/SignOut utilizando a ferramenta Firebase.
-- <img src="https://skillicons.dev/icons?i=firebase" width = 15px height = 15px /> [Quarto Aplicativo](https://github.com/RgoSL/ams-ds-2025/tree/MAP-II/AppSign) <!-- ⬅️ LINK PARA A RESPECTIVA BRANCH -->
+  ### 🔗 Database Vendas
+A problemática elaborada nessa atividade foi sobre múltiplas tabelas associadas a uma ação de venda de produtos.
+- 🔗 [Quarta Atividade](https://github.com/RgoSL/ams-ds-2025/tree/DB-II/Vendas%20I) <!-- ⬅️ LINK PARA A RESPECTIVA BRANCH -->
 <br>
 
-### <img src="https://skillicons.dev/icons?i=sqlite" width = 30px height = 30px /> Aplicativo com SQLITE
-O quinto aplicativo foi sobre a criação de um app para armazenar certos dados de um registro.
-- <img src="https://skillicons.dev/icons?i=sqlite" width = 15px height = 15px /> [Quinto Aplicativo](https://github.com/RgoSL/ams-ds-2025/tree/MAP-II/AppSQLite) <!-- ⬅️ LINK PARA A RESPECTIVA BRANCH -->
-<br>
-
-### <img src="https://skillicons.dev/icons?i=firebase" width = 30px height = 30px /> CRUD Firebase
-O sexto aplicativo foi desenvolvido com Firebase e contava com algumas funções CRUD, como criação, visualização e autenticação.
-- <img src="https://skillicons.dev/icons?i=firebase" width = 15px height = 15px /> [Sexto Aplicativo](https://github.com/RgoSL/ams-ds-2025/tree/MAP-II/FirebaseCrud) <!-- ⬅️ LINK PARA A RESPECTIVA BRANCH -->
-<br>
-
-### 🔐 Firebase Auth
-O sétimo aplicativo focou em uma integração mais simples do Google Authentication.
-- 🔐 [Sétimo Aplicativo](https://github.com/RgoSL/ams-ds-2025/tree/MAP-II/FirebaseAuth) <!-- ⬅️ LINK PARA A RESPECTIVA BRANCH -->
-<br>
-
----
+  ### 🔗 Database Vendas _Parte II_
+Utilizando da mesma problemática da parte I, novos exercícios foram realizados na Database original.
+- 🔗 [Quinta Atividade](https://github.com/RgoSL/ams-ds-2025/tree/DB-II/Vendas%20II) <!-- ⬅️ LINK PARA A RESPECTIVA BRANCH -->
+  
+----
