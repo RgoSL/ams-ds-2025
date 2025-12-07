@@ -1,0 +1,3 @@
+SELECT * FROM Envio
+WHERE Frete > 50;
+GO

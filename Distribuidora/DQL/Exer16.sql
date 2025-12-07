@@ -1,0 +1,2 @@
+SELECT MIN(CEP) FROM Territorio;
+GO

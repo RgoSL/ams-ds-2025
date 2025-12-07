@@ -1,0 +1,3 @@
+SELECT * FROM Envio
+WHERE Cidade LIKE 'R%';
+GO

@@ -1,0 +1,2 @@
+SELECT * FROM Territorio ORDER BY CEP DESC;
+GO

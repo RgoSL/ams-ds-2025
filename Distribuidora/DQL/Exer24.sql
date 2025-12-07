@@ -1,0 +1,3 @@
+SELECT * FROM Territorio
+WHERE CEP LIKE '%7';
+GO

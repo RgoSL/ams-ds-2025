@@ -1,0 +1,2 @@
+SELECT AVG(CEP) FROM Territorio;
+GO

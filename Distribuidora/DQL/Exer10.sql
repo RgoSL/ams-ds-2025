@@ -1,0 +1,2 @@
+SELECT MIN(Frete) FROM Envio;
+GO

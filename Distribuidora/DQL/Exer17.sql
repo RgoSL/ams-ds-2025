@@ -1,0 +1,2 @@
+SELECT AVG(Frete) FROM Envio;
+GO

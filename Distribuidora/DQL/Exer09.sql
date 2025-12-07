@@ -1,0 +1,2 @@
+SELECT MAX(Frete) FROM Envio;
+GO

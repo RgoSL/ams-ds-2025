@@ -1,0 +1,2 @@
+SELECT SUM(Frete) FROM Envio;
+GO

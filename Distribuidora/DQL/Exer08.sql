@@ -1,0 +1,2 @@
+SELECT SUM(CEP) FROM Territorio;
+GO

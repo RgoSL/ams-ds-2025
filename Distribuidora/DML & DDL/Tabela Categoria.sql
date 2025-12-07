@@ -1,0 +1,9 @@
+USE Entrega
+
+CREATE TABLE Categoria(
+Cod_Categoria INT NOT NULL PRIMARY KEY,
+NomeCategoria NVARCHAR(70) NOT NULL,
+Descricao NVARCHAR(90) NOT NULL
+);
+
+GO

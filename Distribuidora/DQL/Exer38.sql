@@ -1,0 +1,3 @@
+SELECT * FROM Envio
+WHERE Regiao IS NOT NULL;
+GO

@@ -1,0 +1,3 @@
+SELECT * FROM Envio
+WHERE MONTH(DataEnvio) = 7;
+GO
