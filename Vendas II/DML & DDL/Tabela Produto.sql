@@ -1,0 +1,8 @@
+USE Vendas
+
+CREATE TABLE Produto (
+CodProduto INT NOT NULL PRIMARY KEY,
+NomeProduto NVARCHAR(100) NOT NULL,
+TipoProduto NVARCHAR(60) NOT NULL
+);
+GO

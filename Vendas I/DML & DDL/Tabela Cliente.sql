@@ -1,0 +1,10 @@
+USE Vendas
+
+CREATE TABLE Cliente (
+CodCliente INT NOT NULL PRIMARY KEY,
+NomeCliente NVARCHAR (100) NOT NULL,
+Salario DECIMAL(10,2) NOT NULL,
+CodEstCiv INT NOT NULL,
+FOREIGN KEY (CodEstCiv) REFERENCES EstadoCivil(CodEstCiv)
+);
+GO

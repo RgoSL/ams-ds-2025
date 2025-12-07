@@ -1,0 +1,9 @@
+USE Vendas
+
+CREATE TABLE Conjuge (
+CodConjuge INT NOT NULL PRIMARY KEY,
+NomeConj NVARCHAR(100) NOT NULL,
+CodCliente INT NOT NULL,
+FOREIGN KEY (CodCliente) REFERENCES Cliente(CodCliente)
+);
+GO

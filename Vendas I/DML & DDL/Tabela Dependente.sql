@@ -1,0 +1,10 @@
+USE Vendas
+
+CREATE TABLE Dependente (
+CodDep INT NOT NULL PRIMARY KEY,
+NomeDep NVARCHAR(100) NOT NULL,
+DataNasc DATE NOT NULL,
+CodFun INT NOT NULL,
+FOREIGN KEY (CodFun) REFERENCES Funcionario(CodFun)
+);
+GO

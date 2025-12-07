@@ -1,0 +1,7 @@
+USE Vendas
+
+CREATE TABLE EstadoCivil (
+CodEstCiv INT NOT NULL PRIMARY KEY,
+DescEstCiv NVARCHAR(40) NOT NULL
+);
+GO

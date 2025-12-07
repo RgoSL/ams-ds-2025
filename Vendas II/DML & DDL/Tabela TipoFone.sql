@@ -1,0 +1,7 @@
+USE Vendas
+
+CREATE TABLE TipoFone (
+CodFone INT NOT NULL PRIMARY KEY,
+DescFone NVARCHAR(40) NOT NULL
+);
+GO

@@ -1,0 +1,7 @@
+USE Vendas
+
+CREATE TABLE Funcionario (
+CodFun INT NOT NULL PRIMARY KEY,
+NomeFun NVARCHAR(100) NOT NULL
+);
+GO
